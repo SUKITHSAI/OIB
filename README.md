@@ -1,2 +1,2 @@
 # OIB
-Oasis infoByte
+Oasis infoByte Internship
